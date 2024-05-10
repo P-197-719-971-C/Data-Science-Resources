@@ -37,13 +37,13 @@
 
 ## Statistics
 
-### [Descriptive Statistics](#descriptive-statistics)
+- [Descriptive Statistics](#descriptive-statistics)
 
-### [Inferential Statistics](#inferential-statistics)
+- [Inferential Statistics](#inferential-statistics)
 
-### [Graphs for Categorical and Numerical Data](#graphs-for-categorical-and-numerical-data)
+- [Graphs for Categorical and Numerical Data](#graphs-for-categorical-and-numerical-data)
 
-### [Resources](#resources)
+- [Resources](#resources)
 
 ### Descriptive Statistics:
 
